@@ -1,0 +1,37 @@
+{
+    "name": "vscode-cars-icon-theme",
+    "displayName": "Cars Icon Theme",
+    "description": "Icons from Cars movies",
+    "version": "0.0.1",
+    "publisher": "mchlln",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-cars-icon-theme",
+                "label": "Cars Icon Theme",
+                "path": "./icons.json"
+            }
+        ]
+    },
+    "icon": "icons/flash.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mchlln/cars_icon_theme.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "icons",
+        "theme",
+        "icon",
+        "cars",
+        "flash???",
+        "totoro",
+        "anime"
+    ],
+    "license": "MIT"
+}
