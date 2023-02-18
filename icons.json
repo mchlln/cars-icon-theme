@@ -1,67 +1,67 @@
 {
     "iconDefinitions": {
       "_file": {
-        "iconPath": "icons/jiji.png"
+        "iconPath": "icons/carla.png"
       },
       "_css": {
-        "iconPath": "icons/epouvantail.png"
+        "iconPath": "icons/sheriff.png"
       },
       "_html": {
-        "iconPath": "icons/moving_castle.png"
+        "iconPath": "icons/chick.png"
       },
       "_javascript": {
-        "iconPath": "icons/marnie.png"
+        "iconPath": "icons/doc.png"
       },
       "_javascript_test": {
-        "iconPath": "icons/food.png"
+        "iconPath": "icons/moo.png"
       },
       "_json": {
-        "iconPath": "icons/ponyo.png"
+        "iconPath": "icons/king.png"
       },
       "_git": {
-        "iconPath": "icons/calcifer.png"
+        "iconPath": "icons/flo.png"
       },
       "_image": {
-        "iconPath": "icons/san.png"
+        "iconPath": "icons/sally.png"
       },
       "_markdown": {
-        "iconPath": "icons/readme.png"
+        "iconPath": "icons/guido.png"
       },
       "_license": {
-        "iconPath": "icons/laputa.png"
+        "iconPath": "icons/raoul.png"
       },
       "_ocaml":{
-        "iconPath": "icons/ocaml.png"
+        "iconPath": "icons/martin.png"
       },
       "_python":{
-        "iconPath": "icons/pythar.png"
+        "iconPath": "icons/luigi.png"
       },
       "_text":{
-        "iconPath": "icons/txt.jpg"
+        "iconPath": "icons/francesco.jpg"
       },
       "_c":{
-        "iconPath": "icons/arriety.png"
+        "iconPath": "icons/mcqueen.png"
       },
       "_cpp":{
-        "iconPath": "icons/dust.png"
+        "iconPath": "icons/sergent.png"
       },
       "_csharp":{
-        "iconPath": "icons/faceless.png"
+        "iconPath": "icons/holley.png"
       },
       "_java":{
-        "iconPath": "icons/chihiro.png"
+        "iconPath": "icons/filmore.png"
       },
       "_makefile":{
-        "iconPath": "icons/spirit.png"
+        "iconPath": "icons/mack.png"
       },
       "_latex":{
-        "iconPath": "icons/robot.png"
+        "iconPath": "icons/finn.png"
       },
       "_visualstudiocode":{
-        "iconPath": "icons/totoro.png"
+        "iconPath": "icons/ramone.png"
       },
       "_php":{
-        "iconPath": "icons/nausicaa.png"
+        "iconPath": "icons/lizzie.png"
       }
     },
     "file": "_file",
