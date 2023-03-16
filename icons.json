@@ -62,6 +62,9 @@
       },
       "_php":{
         "iconPath": "icons/lizzie.png"
+      },
+      "_ys":{
+        "iconPath": "icons/red.png"
       }
     },
     "file": "_file",
@@ -76,7 +79,8 @@
       "svg": "_image",
       "node.js": "_javascript_test",
       "md": "_markdown",
-      "git": "_git"
+      "git": "_git",
+      "ys":"_ys"
     },
     "fileNames": {
       "license": "_license",
@@ -115,6 +119,7 @@
       "python": "_python",
       "php": "_php",
       "latex": "_latex",
-      "java": "_java"
+      "java": "_java",
+      "ys":"_ys"
     }
   }
