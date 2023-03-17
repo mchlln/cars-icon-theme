@@ -2,7 +2,7 @@
     "name": "vscode-cars-icon-theme",
     "displayName": "Cars Icon Theme",
     "description": "Icons from Cars movies",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mchlln",
     "engines": {
         "vscode": "^1.20.0"
