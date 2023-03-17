@@ -8,7 +8,7 @@ Icon theme made for the languages used in my compsci classes.
 
 For now, the supported languages are C, C++, C#, Java, Ocaml, Python, Y86, HTML, CSS, Javascript, Php, JSON, Markdown et LaTeX.
 
-<img width="150" alt="Screen Shot 2023-02_15" src="overview.png">
+<img width="150" alt="Supported_Languages" src="overview.png">
 
 ## Download
 
